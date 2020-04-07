@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Another Year of Books</title>
-    <link>https://condio.github.io/anotheryearofbooks/tags/</link>
+    <link>https://anotheryearofbooks.com/tags/</link>
     <description>Recent content in Tags on Another Year of Books</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://condio.github.io/anotheryearofbooks/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anotheryearofbooks.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>rom-com</title>
-      <link>https://condio.github.io/anotheryearofbooks/tags/rom-com/</link>
+      <link>https://anotheryearofbooks.com/tags/rom-com/</link>
       <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://condio.github.io/anotheryearofbooks/tags/rom-com/</guid>
+      <guid>https://anotheryearofbooks.com/tags/rom-com/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fiction</title>
-      <link>https://condio.github.io/anotheryearofbooks/tags/fiction/</link>
+      <link>https://anotheryearofbooks.com/tags/fiction/</link>
       <pubDate>Fri, 19 Jan 2018 08:00:00 -0800</pubDate>
       
-      <guid>https://condio.github.io/anotheryearofbooks/tags/fiction/</guid>
+      <guid>https://anotheryearofbooks.com/tags/fiction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>advice</title>
-      <link>https://condio.github.io/anotheryearofbooks/tags/advice/</link>
+      <link>https://anotheryearofbooks.com/tags/advice/</link>
       <pubDate>Sat, 13 Jan 2018 08:00:00 -0800</pubDate>
       
-      <guid>https://condio.github.io/anotheryearofbooks/tags/advice/</guid>
+      <guid>https://anotheryearofbooks.com/tags/advice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unqualified</title>
-      <link>https://condio.github.io/anotheryearofbooks/tags/unqualified/</link>
+      <link>https://anotheryearofbooks.com/tags/unqualified/</link>
       <pubDate>Sat, 13 Jan 2018 08:00:00 -0800</pubDate>
       
-      <guid>https://condio.github.io/anotheryearofbooks/tags/unqualified/</guid>
+      <guid>https://anotheryearofbooks.com/tags/unqualified/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://anotheryearofbooks.com/categories/</link>
     <description>Recent content in Categories on Another Year of Books</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://anotheryearofbooks.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>2020 Reads</title>
       <link>https://anotheryearofbooks.com/categories/2020-reads/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://anotheryearofbooks.com/categories/2020-reads/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Book Reviews</title>
       <link>https://anotheryearofbooks.com/categories/book-reviews/</link>
-      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://anotheryearofbooks.com/categories/book-reviews/</guid>
       <description></description>
@@ -52,6 +52,15 @@
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://anotheryearofbooks.com/categories/2018-reads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://anotheryearofbooks.com/categories/first-post/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://anotheryearofbooks.com/categories/first-post/</guid>
       <description></description>
     </item>
     
